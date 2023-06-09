@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: "Public Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar {
+  background-color: #3c486b;
+}
+
+.category-aktif {
+  background-color: #3c486b;
+  color: white;
+}
+
+.block-button {
+  display: block;
+  width: 100%;
+  background-color: #3c486b;
+}
+
+.kembali {
+  background-color: #3c486b;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
